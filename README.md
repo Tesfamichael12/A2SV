@@ -1,7 +1,7 @@
 # A2SV -  Africa to Silicon Valley
 # *My Journey at A2SV*
 
-Hi there, my name is Tesfamichael Tafere and welcome to my my journey at A2SV—a comprehensive log capturing my progress and achievements during my tenure at **A2SV**(Africa to Silicon Valley).
+Hi there, my name is Tesfamichael Tafere and welcome to my journey at A2SV—a comprehensive log capturing my progress and achievements during my tenure at **A2SV**(Africa to Silicon Valley).
 
 
 ### Purpose
